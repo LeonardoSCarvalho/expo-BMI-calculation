@@ -16,3 +16,8 @@
 <p align="center">
 	<img src="./assets/app.gif" width="300">
 </p>
+
+## Overview
+<p>
+    📱 Simples App de calculo de imc construído em React Native utilizando a ferramenta Expo
+</p>
