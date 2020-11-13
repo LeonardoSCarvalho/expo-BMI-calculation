@@ -1,6 +1,6 @@
 <h1 align="center">
 <img
-		width="250"
+		width="150"
 		src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png">
 </h1>
 <h3 align="center">
